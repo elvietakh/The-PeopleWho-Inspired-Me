@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: oklab(39.132% 0.04487 0.05901);
+    color: oklab(38.068999999999996% 0.04568 0.05799);
     text-align: center;
 }
 
@@ -17,4 +17,3 @@ h2 {
 img {
     width: 250px;
 }
-
