@@ -6,17 +6,16 @@ body {
 }
 
 h1 {
-    color: darkblue;
+    color: oklab(64.159% 0.16128 -0.05729);
     text-align: center;
 }
 
 h2 {
-    color: #873600;
+    color: #503224;
 }
 
 img {
     width: 250px;
 }
-
 
 
